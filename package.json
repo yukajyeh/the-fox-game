@@ -11,6 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
-  }
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "jest": "^27.0.4",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.3.1",
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
